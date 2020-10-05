@@ -1,10 +1,10 @@
-.. 5GNetwork documentation master file, created by
-   sphinx-quickstart on Mon Oct  5 22:03:30 2020.
+.. 5GGnetwork documentation master file, created by
+   sphinx-quickstart on Mon Oct  5 23:32:07 2020.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to 5GNetwork's documentation!
-=====================================
+Welcome to 5GGnetwork's documentation!
+======================================
 
 .. toctree::
    :maxdepth: 2
